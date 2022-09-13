@@ -1,0 +1,7 @@
+<templateSet group="Ruby">
+  <template name="sr" value="single_record(browser, $END$, &quot;screenshot&quot; =&gt; true)" description="Single record" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+</templateSet>

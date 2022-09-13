@@ -1,0 +1,88 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
+    <option name="enabled" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="RHTML" value="true" />
+      </map>
+    </option>
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
+    <option name="SHOW_INTENTION_BULB" value="false" />
+    <option name="IS_CARET_BLINKING" value="false" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="Dockerfile.docker.inlay.hints" />
+        <option value="JavaScript.js.chain.hints" />
+        <option value="JavaScript.js.type.hints" />
+        <option value="Markdown.MarkdownTableInlayProviderSettingsKey" />
+        <option value="SQL.sql.join.cardinality.hints" />
+        <option value="TypeScript.ts.chain.hints" />
+        <option value="TypeScript.ts.enum.hints" />
+        <option value="TypeScript.ts.type.hints" />
+        <option value="ruby.rbs.ruby.attribute.type.hints" />
+        <option value="ruby.rbs.ruby.constant.type.hints" />
+        <option value="ruby.rbs.ruby.container.type.hints" />
+        <option value="ruby.rbs.ruby.global.variable.type.hints" />
+        <option value="ruby.rbs.ruby.parameter.type.hints" />
+        <option value="ruby.rbs.ruby.return.type.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="" />
+    <settingsMapElement>
+      <JavaScript.js.type.hints>
+        <Settings>
+          <option name="showForInferredParameters" value="false" />
+        </Settings>
+      </JavaScript.js.type.hints>
+      <TypeScript.ts.type.hints>
+        <Settings>
+          <option name="showForInferredParameters" value="false" />
+        </Settings>
+      </TypeScript.ts.type.hints>
+    </settingsMapElement>
+  </component>
+  <component name="RubyI18nFoldingSettings">
+    <option name="collapseI18nMessages" value="false" />
+    <option name="COLLAPSE_I18N_MESSAGES" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="tagTreeHighlightingEnabled" value="false" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
+    <option name="COLLAPSE_DATA_URI" value="false" />
+  </component>
+</application>
