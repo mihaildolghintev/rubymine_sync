@@ -1,0 +1,59 @@
+<keymap version="1" name="Sublime Text (macOS) yad" parent="Sublime Text (Mac OS X)">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
+  <action id="BraceOrQuoteOut" />
+  <action id="Console.TableResult.ColumnsList" />
+  <action id="Console.TableResult.Reload" />
+  <action id="DatabaseView.DataSourceCutAction">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
+  <action id="EditorChooseLookupItemReplace" />
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="EditorIndentSelection" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
+    <keyboard-shortcut first-keystroke="shift meta space" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="ExpandLiveTemplateByTab" />
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="NextParameter" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="OpenFile" />
+  <action id="Refresh" />
+  <action id="Rerun" />
+  <action id="SearchEverywhere.CompleteCommand" />
+  <action id="SearchEverywhere.NextTab" />
+  <action id="SplitChooser.NextWindow" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+  <action id="Svn.RefreshWorkingCopies" />
+  <action id="UsageView.Remove">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="Vcs.Log.Refresh" />
+  <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
+</keymap>
