@@ -1,6 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="jest.config" type="JSON" />
+      <mapping pattern=".eslintrc" type="JSON" />
+      <mapping pattern=".stylelintrc" type="JSON" />
+      <mapping pattern=".babelrc" type="JSON" />
+      <mapping pattern="bowerrc" type="JSON" />
+      <mapping ext="jsb2" type="JSON" />
+      <mapping ext="jsb3" type="JSON" />
       <removed_mapping ext="es" approved="true" type="ActionScript" />
     </extensionMap>
   </component>
